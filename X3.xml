@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <X3>
-            <Filename>RR-N-v5.8.3-20170604-X3-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170720-X3-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=817550096634775346</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=817550096634787722</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
